@@ -1,0 +1,1 @@
+C:\Users\krale\Rust\ns_snake\target\debug\libns_snake.rlib: C:\Users\krale\Rust\ns_snake\src\assets.rs C:\Users\krale\Rust\ns_snake\src\food.rs C:\Users\krale\Rust\ns_snake\src\lib.rs C:\Users\krale\Rust\ns_snake\src\position.rs C:\Users\krale\Rust\ns_snake\src\snake.rs
